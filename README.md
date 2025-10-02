@@ -13,6 +13,6 @@ Name: Robert harle
 
 CSID: rkh23
 
-[![E1 - Add Name](https://github.com/cambridge-bootcamp/git-started/actions/workflows/e1-add-name.yml/badge.svg)](https://github.com/cambridge-bootcamp/git-started/actions/workflows/e1-add-name.yml)
+[![E1 - Add Name](../../actions/workflows/e1-add-name.yml/badge.svg)](../../actions/workflows/e1-add-name.yml)
 
 ## E2 | Use `git` to remove a file
