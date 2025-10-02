@@ -9,9 +9,9 @@ you to practice the typical workflows in GitHub.
 As a first step, we invite you to edit this very README.md file. In particular,
 we would like you to add your name and CSID into this README.
 
-Name:
+Name: Robert harle
 
-CSID:
+CSID: rkh23
 
 [![E1 - Add Name](https://github.com/cambridge-bootcamp/git-started/actions/workflows/e1-add-name.yml/badge.svg)](https://github.com/cambridge-bootcamp/git-started/actions/workflows/e1-add-name.yml)
 
